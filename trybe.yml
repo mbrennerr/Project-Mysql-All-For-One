@@ -1,6 +1,6 @@
 ignore_files:
   - tests/
-  - editorconfig
+  - .editorconfig
   - .eslintignore
   - .eslintrc.json
   - .gitignore
